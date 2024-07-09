@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 6c83c173-1782-43d5-976d-136a60ed52e9
+      url: 'https://ankalachyan.quarto.pub/a-quarto-website'
