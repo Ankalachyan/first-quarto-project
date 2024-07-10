@@ -1,5 +1,9 @@
 ---
 title: "About"
 ---
+## About Me
+I'm **Anahit Kalachyan**,and I'm attending to Yerevan State Humanitarian-Technical Collage
 
-Anahit Kalachyan
+
+
+[Anahit Kalachyan's Github Account](https://github.com/Ankalachyan/)
